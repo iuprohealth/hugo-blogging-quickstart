@@ -1,0 +1,11 @@
+# Hugo binary
+hugo
+hugo.exe
+
+# Temporary and build files
+/public/
+/resources/_gen/
+/.hugo_build.lock
+
+# Platform-specific
+.DS_Store

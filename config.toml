@@ -1,0 +1,5 @@
+baseURL = 'https://cgi.luddy.indiana.edu/~hayesall/blog/'
+languageCode = 'en-us'
+title = 'Health Informatics Demo Blog'
+theme = "ananke"
+canonifyURLs = true

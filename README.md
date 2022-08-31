@@ -48,11 +48,11 @@ make-cgi
 
 (**2**) Edit the `config.toml` file to set your IU username.
 
-![User edits the config.toml file, changing hayesall to myusername.](.github/docs/set_config_iu_username.mp4)
+https://user-images.githubusercontent.com/11916674/187786566-5d357b0f-d64d-4232-95de-d7b3bfc3e9cf.mp4
 
 (**3**) Edit the `deploy_site.sh` script with your IU username.
 
-![User edits the deploy_site.sh script, setting the USER variable to hayesall.](.github/docs/set_config_iu_username.mp4)
+https://user-images.githubusercontent.com/11916674/187786710-afe162b1-f4fd-4e4f-8e3c-6190775fe68c.mp4
 
 (**4**) Run the deploy script, which builds the site and uses `rsync` to send it to the server[^2]
 

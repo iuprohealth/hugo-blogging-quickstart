@@ -67,6 +67,10 @@ Look at the `content/posts/` directory and the `static` directory. Currently the
 - there's a single post: `setup-hugo-blogging.md`
 - and a single image: `faces_in_the_crowd_words.jpg`
 
+You could:
+
+1. Create a second post in the `content/posts/` directory
+2. Practice modifying the existing post, viewing changes, and deploying
 
 ## Footnotes
 

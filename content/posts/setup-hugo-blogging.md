@@ -34,7 +34,7 @@ I am curious about:
 
 I started scratching words I didn't recognize onto index cards a while back.
 
-![](/faces_in_the_crowd_words.jpg)
+![The book Faces in the Crowd by Valeria Luiselli sits on a table. It is partially obscured by some index cards with page numbers and words written on one.](/faces_in_the_crowd_words.jpg)
 
 There's a "*law*" in complex systems (and many other places) called [Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law), where the second-most common word in a language half as often as the most common word in a language. By extrapolation, there is a long tail of words that I could discovery simply by keeping an eye out for them.
 
